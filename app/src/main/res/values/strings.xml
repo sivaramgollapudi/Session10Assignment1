@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Session10Assignment1</string>
+    <string name="editTextHint">Enter Text and Click on Submit.</string>
+    <string name="submitButton">Submit</string>
+</resources>
